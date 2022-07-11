@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences: [linkedin.com/in/emmanuel-nduka-14a08821b](linkedin.com/in/emmanuel-nduka-14a08821b)
 
-- ⚡ Fun fact: **Music 💯**
+- ⚡ Fun fact: **Music + Games + Tours !!!💯**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
