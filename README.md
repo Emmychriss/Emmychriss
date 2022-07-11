@@ -17,10 +17,6 @@
 <a href="https://instagram.com/emmy_reigns_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmy_reigns_" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmychriss&show_icons=true&locale=en&layout=compact" alt="emmychriss" /></p><br>
-
-<p></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmychriss&show_icons=true&locale=en" alt="emmychriss" /></p>
 
 
