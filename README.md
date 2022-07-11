@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmychriss&label=Profile%20views&color=0e75b6&style=flat" alt="emmychriss" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmychriss" alt="emmychriss" /></a> </p>
+- 🔭 I’m currently working on: ** A number of projects **
 
-- 🔭 I’m currently working on **A few number of projects**
+- 📫 How to reach me: ** emmychris477@gmail.com **
 
-- 📫 How to reach me **emmychris477@gmail.com**
+- 📄 Know about my experiences: [linkedin.com/in/emmanuel-nduka-14a08821b](linkedin.com/in/emmanuel-nduka-14a08821b)
 
-- 📄 Know about my experiences [linkedin.com/in/emmanuel-nduka-14a08821b](linkedin.com/in/emmanuel-nduka-14a08821b)
-
-- ⚡ Fun fact **Music and beats kinda my side gig :), there's room for some collabs**
+- ⚡ Fun fact: ** Music 💯 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
